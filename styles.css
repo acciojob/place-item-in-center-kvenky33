@@ -5,3 +5,8 @@ body {
   align-items: center;
   height: 500px;
 }
+h1{
+	dispaly:flex;
+	justify-content:center;
+	align-items:center;
+}
